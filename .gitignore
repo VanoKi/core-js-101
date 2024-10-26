@@ -37,3 +37,5 @@ node_modules
 .DS_Store
 .vscode
 .idea
+
+draft.js
